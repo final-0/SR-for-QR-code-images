@@ -7,7 +7,6 @@ from torch.autograd import Variable
 from model_qr import *
 from dataset_qr import *
 
-
 os.makedirs("test_img_qr", exist_ok=True)
 cuda = torch.cuda.is_available()
 Tensor = torch.cuda.FloatTensor if cuda else torch.Tensor

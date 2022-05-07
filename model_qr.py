@@ -11,7 +11,6 @@ class Generator(nn.Module):
     def forward(self, x):
         return self.G_model(x)
 
-
 class Discriminator(nn.Module):
     def __init__(self, input_shape):
         super(Discriminator, self).__init__()

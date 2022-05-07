@@ -46,7 +46,6 @@ for i, imgs in enumerate(dataloader):
     loss_G.backward()
     optimizer_G.step()
 
-
     #--Train Discriminator--#
 
     optimizer_D.zero_grad()
@@ -68,5 +67,3 @@ for i, imgs in enumerate(dataloader):
 
 torch.save(G.state_dict(), "saved_models_qr/generator.pth")
 torch.save(D.state_dict(), "saved_models_qr/discriminator.pth")
-
-#time.sleep(10)

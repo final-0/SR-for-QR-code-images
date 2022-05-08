@@ -1,5 +1,5 @@
 # SR-for-QR-code-images
-## Abstruct
+## Abstract
   In this paper, we propose super resolution method
 for converting unreadable low resolution QR code images into
 readable high resolution images. We used Generative Adversarial
@@ -11,3 +11,10 @@ solve this issue, we propose QRGAN, a simple super resolution
 model for QR code images. By targeting only QR code images for
 super resolution tasks, we enabled to reduce both computational
 complexity and memory usage.
+
+## result
+
+## proposed method
+### ・model structure
+
+### ・dataset

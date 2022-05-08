@@ -31,3 +31,11 @@ absolute difference of pixels between the generated image and
 the ground truth image for the content loss.
 
 ### ・dataset
+qr_dataset : https://www.kaggle.com/coledie/qr-codes
+&emsp;The size of the original image varies depending on the image. So, we normalized the size of the images to 256 x 256 [pixels] beforeusing them. We resized the images using bicubic method.
+
+ 
+recommendation  <br>
+&emsp; image-size : 256x256 pixel <br>
+&emsp; number of images : 1000 <br>
+&emsp; epoch : 1

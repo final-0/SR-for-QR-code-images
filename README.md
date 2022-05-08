@@ -40,5 +40,5 @@ recommendation  <br>
 &emsp; high resolution image-size : 256x256 pixel <br>
 &emsp; low resolution image-size : 64x64 pixel <br>
 &emsp; training epoch : 1 <br>
-&emsp; number of images for training: 1000 <br>
-&emsp; number of images for evaluation: 100 <br>
+&emsp; number of images for training : 1000 <br>
+&emsp; number of images for evaluation : 100 <br>

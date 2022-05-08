@@ -1,4 +1,4 @@
-# SR-for-QR-code-images
+# Super Resolution for QR code images
 ## Abstract
   In this paper, we propose super resolution method
 for converting unreadable low resolution QR code images into

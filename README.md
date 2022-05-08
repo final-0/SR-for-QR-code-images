@@ -37,7 +37,8 @@ The size of the original image varies depending on the image. So, we normalized 
 
  
 recommendation  <br>
-&emsp; image-size : 256x256 pixel <br>
+&emsp; high resolution image-size : 256x256 pixel <br>
+&emsp; low resolution image-size : 64x64 pixel <br>
+&emsp; training epoch : 1
 &emsp; number of images for training: 1000 <br>
 &emsp; number of images for evaluation: 100 <br>
-&emsp; epoch : 1

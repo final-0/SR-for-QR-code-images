@@ -32,10 +32,12 @@ the ground truth image for the content loss.
 
 ### ・dataset
 qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
-&emsp;The size of the original image varies depending on the image. So, we normalized the size of the images to 256 x 256 [pixels] beforeusing them. We resized the images using bicubic method.
+
+The size of the original image varies depending on the image. So, we normalized the size of the images to 256 x 256 [pixels] beforeusing them. We resized the images using bicubic method. We used 1000 QR code images for training, and we used 100 images for test.
 
  
 recommendation  <br>
 &emsp; image-size : 256x256 pixel <br>
-&emsp; number of images : 1000 <br>
+&emsp; number of images for training: 1000 <br>
+&emsp; number of images for evaluation: 100 <br>
 &emsp; epoch : 1

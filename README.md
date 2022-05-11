@@ -1,9 +1,9 @@
 # Super Resolution for QR code images
 ## Abstract
-  In this paper, we propose super resolution method
+  In this repositorie, we propose super resolution method
 for converting unreadable low resolution QR code images into
 readable high resolution images. We used Generative Adversarial
-Networks(GAN) for super resolution. In general, super
+Networks (GAN) for super resolution. In general, super
 resolution models using GAN such as SRGAN require a lot
 of computational complexity and memory usage. As a result, it
 is difficult for people to use without high performing GPUs. To

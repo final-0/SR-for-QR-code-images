@@ -13,7 +13,17 @@ super resolution tasks, we enabled to reduce both computational
 complexity and memory usage.
 
 ## result
-
+  <table>
+   <tr>
+    <td><img src="images/input.png" width=192 height=192></td>
+    <td><img src="images/output.png" width=192 height=192></td>
+   </tr>
+   <tr>
+    <td align="center">input</td>
+    <td align="center">output</td>
+   </tr>
+  </table>
+  
 ## proposed method
 ### ・model structure
 Figure 1 shows the structure of the generator and the discriminator. The generator only has 8 layers with 3 convolution

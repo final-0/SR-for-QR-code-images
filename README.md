@@ -1,5 +1,5 @@
 # Super Resolution for QR code images
-paper - [Super Resolution for QR Code Images](https://ieeexplore.ieee.org/document/10014154)
+paper - [Super Resolution for QR Code Images](https://ieeexplore.ieee.org/document/10014154)<br>
 conference - [2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)](http://www.ieee-gcce.org/2022/)
 ## Abstract
   In this repositorie, we propose super resolution method

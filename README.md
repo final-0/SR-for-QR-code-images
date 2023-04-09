@@ -28,6 +28,7 @@ complexity and memory usage.
   
 ## proposed method
 ### ・model structure
+<img src="images/str.png" width=192 height=192>
 Figure 1 shows the structure of the generator and the discriminator. The generator only has 8 layers with 3 convolution
 layers and the discriminator only has 4 layers with 2 convolution layers. Contrary to SRGAN, QRGAN only applies
 super resolution to grayscale images. As a result, channels

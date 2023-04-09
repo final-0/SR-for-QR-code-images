@@ -1,4 +1,5 @@
 # Super Resolution for QR code images
+implementation of paper - [Super Resolution for QR Code Images](https://ieeexplore.ieee.org/document/10014154)
 ## Abstract
   In this repositorie, we propose super resolution method
 for converting unreadable low resolution QR code images into
